@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Nothing specific right now, but I’m open to learning and collaborating on exciting projects. Let’s connect if you have something in mind!**
 
-- 👨‍💻 All of my projects are available at ([coming soon...])
+- 👨‍💻 All of my projects are available at [coming soon...]
 
 - 💬 Ask me about **React, Express.JS, CSS/SASS**
 
 - 📫 How to reach me **majedur-rahman@outlook.com**
 
-- 📄 Know about my experiences [<coming soon...>](<coming soon...>)
+- 📄 Know about my experiences [coming soon...]
 
 - ⚡ Fun fact **When I’m not coding, you’ll probably find me playing guitar and rocking out to my favorite tunes!**
 
