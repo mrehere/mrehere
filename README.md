@@ -3,9 +3,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrehere" alt="mrehere" /></a> </p>
 
+- 🔭 I’m currently working on **A team project called inStock**
+
+- 🌱 I’m currently learning **Advanced JavaScript frameworks, such as ElectronJS**
+
+- 👯 I’m looking to collaborate on **Full stack web development projects, especially those involving JavaScript (React, Node.js) and Express.**
+
+- 🤝 I’m looking for help with **Nothing specific right now, but I’m open to learning and collaborating on exciting projects. Let’s connect if you have something in mind!**
+
+- 👨‍💻 All of my projects are available at [<coming soon...>](<coming soon...>)
+
 - 💬 Ask me about **React, Express.JS, CSS/SASS**
 
 - 📫 How to reach me **majedur-rahman@outlook.com**
+
+- 📄 Know about my experiences [<coming soon...>](<coming soon...>)
+
+- ⚡ Fun fact **When I’m not coding, you’ll probably find me playing guitar and rocking out to my favorite tunes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
