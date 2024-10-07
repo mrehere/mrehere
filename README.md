@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Nothing specific right now, but I’m open to learning and collaborating on exciting projects. Let’s connect if you have something in mind!**
 
-- 👨‍💻 All of my projects are available at [<coming soon...>](<coming soon...>)
+- 👨‍💻 All of my projects are available at ([coming soon...])
 
 - 💬 Ask me about **React, Express.JS, CSS/SASS**
 
