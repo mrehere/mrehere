@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **A personal project called easer**
 
-- 🌱 I’m currently learning **Advanced JavaScript frameworks, such as ElectronJS**
+- 🌱 I’m currently learning **Advanced JavaScript frameworks, such as Electron.js**
 
-- 👯 I’m looking to collaborate on **Full stack web development projects, especially those involving JavaScript (React, Node.js) and Express.**
+- 👯 I’m looking to collaborate on **Full stack web development projects, especially those involving JavaScript (React, Node.js), express.js, and MySQL**
 
 - 🤝 I’m looking for help with **Nothing specific right now, but I’m open to learning and collaborating on exciting projects. Let’s connect if you have something in mind!**
 
