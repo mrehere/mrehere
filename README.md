@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrehere" alt="mrehere" /></a> </p>
 
-- 🔭 I’m currently working on **A personal project called easer**
+- 🔭 I’m currently working on **My personal portfolio website**
 
 - 🌱 I’m currently learning **Advanced JavaScript frameworks, such as Electron.js**
 
