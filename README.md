@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrehere" alt="mrehere" /></a> </p>
 
-- 🔭 I’m currently working on **My personal portfolio website**
+- 🔭 I’m currently working on **improving my core coding skills**
 
 - 🌱 I’m currently learning **Advanced JavaScript frameworks, such as Electron.js**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Nothing specific right now, but I’m open to learning and collaborating on exciting projects. Let’s connect if you have something in mind!**
 
-- 👨‍💻 All of my projects are available at [[coming soon...]]([coming soon...])
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://majedur.netlify.app/projects)
 
 - 💬 Ask me about **React, Express.JS, CSS/SASS**
 
